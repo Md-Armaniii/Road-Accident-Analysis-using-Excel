@@ -1,2 +1,2 @@
 # Road-Accident-Analysis-using-Excel
-Road Accident Analysis using Excel: Leverage the capabilities of Excel to analyze road accident data. 
+Road Accident Analysis using Excel: Leverage the capabilities of Excel to analyze road accident data. Utilize functions, formulas, and pivot tables to explore accident trends, identify high-risk areas, and analyze contributing factors. Visualize data using charts and graphs to understand accident patterns, such as time of day, day of the week, and weather conditions. Calculate accident rates, severity, and types of vehicles involved.
